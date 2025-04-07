@@ -1,0 +1,58 @@
+/* Ensure the entire page uses 100% height */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Wrapper for main content and footer */
+.bottom-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 50vh;
+}
+
+/* Main content area */
+.main-content {
+  flex: 1;
+}
+
+/* Footer styling */
+.bottom_page_Start {
+  background-color: #333; /* Adjust based on your design */
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  width: 100%;
+  bottom: 0;
+  box-sizing: border-box; /* Ensures padding is included in the width */
+}
+
+.left, .right {
+  flex: 1;
+}
+
+.bottom_btn {
+  margin-top: 10px;
+  background-color: #007bff; /* Adjust based on your design */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.bottom_btn:hover {
+  background-color: #0056b3; /* Adjust based on your design */
+}
+
+.loading{
+  text-align: center;
+}
+.loading img{
+  width: 150px;
+}

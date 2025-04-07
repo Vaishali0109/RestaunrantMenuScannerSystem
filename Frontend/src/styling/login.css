@@ -1,0 +1,85 @@
+.login_page_start{
+    display: block;
+    margin: auto;
+    width: fit-content;
+    box-shadow: 0 0 5px;
+    border-radius: 10px;
+}
+.login_page_start h2{
+    text-align: center;
+    margin-top: 40px;
+}
+.login_page_start label{
+    margin-left: 20px;
+}
+
+.login_page_start input{
+    width: 350px;
+    height: 45px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.login_page_start button{
+ width: 150px;
+ height: 45px;
+ margin-bottom: 20px;
+ border-radius: 10px;
+ margin-left: 26%;
+}
+
+@media (max-width:610px){
+    .login_page_start{
+        width: 400px;
+    }
+}
+@media (max-width:418px){
+    .login_page_start{
+        width: 350px;
+    }
+    .login_page_start input{
+        width: 300px;
+    }
+}
+@media (max-width:366px){
+    .login_page_start{
+        width: 300px;
+    }
+    .login_page_start input{
+        width: 250px;
+    }
+}
+@media (max-width:310px){
+    .login_page_start{
+        width: 250px;
+    }
+    .login_page_start input{
+        width: 200px;
+    }
+}
+.order_element{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.order_list{
+    width: 250px;
+    border: 1px solid;
+    box-shadow: 0 0 20px black;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.upload_image{
+    text-align: center;
+}
+
+.about_the_user{
+    text-align: center;
+}
+.about_the_user img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
