@@ -8,7 +8,7 @@ const lunch = [
     {
         id:30,
         name:'Rajma Rice',
-        imageurl:'https://th.bing.com/th/id/OIP.FH3nQROIfgeC9tIkJ0kWXgAAAA?pid=ImgDet&rs=1',
+        imageurl:'https://th.bing.com/th/id/OIP.gl6kSm2aZz7TQHDk8b8vhwHaE7?rs=1&pid=ImgDetMain',
         price:140
     },
     {
