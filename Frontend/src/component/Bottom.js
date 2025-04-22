@@ -7,11 +7,11 @@ const Bottom = () => {
   const [email, setEmail] = useState("");
 
   const sendEmail = async () => {
-    const req = await fetch(`${process.env.REACT_APP_BACKEND}/getnewsdaily`, {
+    const req = await fetch(`${process.env.REACT_APP_BACKEDN}/getnewsdaily`, {
       method: 'POST',
       credentials: 'include',
       headers: {
-        'Origin': `${process.env.REACT_APP_BACKEND}`,
+        'Origin': `${process.env.REACT_APP_BACKEDN}`,
         "Content-Type": 'application/json'
       },
       body: JSON.stringify({ email })
