@@ -1,6 +1,6 @@
 visit the backend part 
 
-<a href="https://github.com/brijesh2004/Resomanagementserver">Backend Part</a>
+<a href="https://github.com/Vaishali0109/RestaunrantMenuScannerSystem/edit/main/Backend">Backend Part</a>
 
 
 
@@ -37,5 +37,5 @@ visit the backend part
 
 
 <h1>Live Demo </h1>
- <a href="https://restoclient.onrender.com/" target="_blank">Demo</a>
+ <a href="https://restaunrant-menu-scanner-system.vercel.app/" target="_blank">Demo</a>
   
