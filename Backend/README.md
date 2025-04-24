@@ -1,6 +1,6 @@
 visit the frontend part 
 
-<a href="https://github.com/brijesh2004/ResoManagemnetclient">Frontend</a>
+<a href="https://github.com/Vaishali0109/RestaunrantMenuScannerSystem/blob/main/Frontend">Frontend</a>
 
 
 
@@ -39,6 +39,6 @@ visit the frontend part
 
 
 <h1>Live Demo </h1>
- <a href="https://restoclient.onrender.com/" target="_blank">Demo</a>
+ <a href="https://restaunrant-menu-scanner-system.vercel.app" target="_blank">Demo</a>
   
 
